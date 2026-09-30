@@ -1,0 +1,601 @@
+﻿Lead_ID,Date,Channel,Campaign,Region,Product,Customer_Type,Ad_Spend,Impressions,Clicks,Leads,Orders,Revenue,COGS
+L10001,09/05/2026,Google Ads,G_Search,Tanta,Laptop,Returning,798.49,54056,258,89,25,609052.27,401531.4
+L10002,02/03/2026,Email Marketing,Email_Retention ,Mansoura,Smartphone,New,980.34,68851,976,321,9,110155.04,72084.93
+L10003,20/06/2026,Instagram Ads,IG_Retargeting,Alexandria,Tablet,New,1122.05,86502,1631,247,28,261631.52,148642.37
+L10004,14/04/2026,Instagram Ads,IG_Products,Other,Accessories,New,1576.64,86418,571,480,117,116746.25,78070.61
+L10005,11/02/2026,facebook ads,FB_Retargeting,Giza,Smart Watch,New,684.33,75211,140,381,79,296223.82,198486.06
+L10006,25/01/2026,Facebook Ads,FB_Summer,Giza,Smartphone,Returning,463.14,46850,1157,413,35,554743.9,323669.65
+L10007,08/02/2026,Facebook Ads,FB_Retargeting,Cairo,Tablet,New,1191.28,83545,2975,495,83,689654.21,425339.25
+L10008,04/02/2026,TikTok Ads,TT_Reach,Other,Smart Watch,New,263.41,32843,4240,191,108,458003.48,265147.68
+L10009,11/05/2026,Instagram Ads,IG_Products,Cairo,Headphones,New,450.88,67320,,34,117,160272.83,91634.55
+L10010,18/04/2026,Instagram Ads,IG_Products,Cairo,Smart Watch,Returning,609.13,34793,665,165,36,119835.35,62935.03
+L10011,21/06/2026,Facebook Ads,FB_Retargeting,Cairo,Laptop,New,1503.06,44516,4040,14,85,2353652.05,1358156.91
+L10012,28/06/2026,Email Marketing,Email_Retention,Mansoura,Laptop,Returning,458.34,22857,3850,129,70,2123993.5,1339802.33
+L10013,12/04/2026,TikTok Ads,TT_Conversions,Cairo,Headphones,New,864.6,24627,614,286,22,38345.09,19951.73
+L10014,08/04/2026,Facebook Ads,FB_Summer,Cairo,Smartphone,New,608.5,66822,3542,27,40,462207.05,266528.84
+L10015,12/01/2026,Facebook Ads ,FB_Retargeting,Cairo,Tablet,New,329.92,89101,4091,440,103,692096.77,481894.57
+L10016,19/01/2026,Facebook Ads,FB_Retargeting,Cairo,Smart Watch,New,856.34,57248,3478,207,92,403967.7,258026.17
+L10017,11/04/2026,Google Ads,G_Search,Giza,Laptop,Returning,563.68,60798,2235,66,79,1798398.73,1153803.29
+L10018,13/02/2026,Google Ads,G_Brand,Mansoura,Smartphone,New,494.22,49116,1084,102,101,1365032.9,819938.22
+L10019,18/02/2026,Google Ads,G_Search,Alexandria,Headphones,New,299.87,80318,2579,28,27,37081.3,24299.17
+L10020,17/01/2026,Facebook Ads,FB_Retargeting,Giza,Accessories,New,687.06,33557,406,393,47,34748.17,19389.01
+L10021,15/03/2026,Instagram Ads,IG_Products,Mansoura,Laptop,New,1331.23,76334,4783,362,37,1039021.94,710430.59
+L10022,26/02/2026,Facebook Ads,FB_NewCustomers,Cairo,Headphones,New,470.36,80163,2786,202,30,53525.53,29082.44
+L10023,24/02/2026,Facebook Ads,FB_Summer,Alexandria,Smart Watch,New,346.97,83002,81,246,13,47475.48,30916.05
+L10024,16/02/2026,Google Ads,G_Shopping,Other,Tablet,Returning,237.04,47614,1113,396,116,813906.93,478764.36
+L10025,12/01/2026,Google Ads,G_Brand,Giza,Laptop,New,222.34,17720,2561,435,96,2831208.96,1895501.74
+L10026,03/03/2026,TikTok Ads,TT_Conversions,Cairo,Laptop,New,616.84,62608,204,286,72,1694923.54,1067722.02
+L10027,21/03/2026,Facebook Ads,FB_NewCustomers,Giza,Smart Watch,Returning,690.65,77095,1184,236,90,355210.18,216845.37
+L10028,24/03/2026,Google Ads,G_Brand,Alexandria,Accessories,New,806.09,89694,2779,242,87,89995.36,49847.03
+L10029,08/01/2026,Instagram Ads,IG_Products,Giza,Smartphone,Returning,631.67,40892,1941,49,76,883526.69,571963.63
+L10030,29/05/2026,Facebook Ads,FB_Summer,Cairo,Tablet,New,726.09,82242,3000,332,89,816495.51,583756.71
+L10031,22/03/2026,Instagram Ads,IG_Retargeting,Cairo,Laptop,Returning,1322.98,82606,208,162,28,649582.03,445042.09
+L10032,28/04/2026,Facebook Ads,FB_Summer,Cairo,Tablet,New,1190.25,5924,517,136,50,403157.18,214480.28
+L10033,25/01/2026,Facebook Ads,FB_Summer,Other,Laptop,Returning,1160.95,56322,4926,246,48,1206511.29,718170.87
+L10034,30/03/2026,Email Marketing,Email_NewOffers,Mansoura,Tablet,Returning,1074.67,31478,2628,495,42,388317.83,273809.35
+L10035,12/01/2026,Email Marketing,Email_Promo,Cairo,Headphones,New,912.74,76042,3209,64,91,138532.16,85974.27
+L10036,23/05/2026,TikTok Ads ,TT_Products,Cairo,Laptop,Returning,259.43,51418,1301,477,91,2307904.56,1505728.55
+L10037,28/02/2026,Google Ads,G_Brand,Mansoura,Tablet,New,588.66,67217,981,445,71,660229.63,463824.43
+L10038,03/06/2026,Facebook Ads,FB_NewCustomers,Cairo,Smartphone,New,760.07,85846,3248,181,86,1169392.5,812445.89
+L10039,19/04/2026,Instagram Ads,IG_Retargeting,Cairo,Headphones,New,404.61,78762,4566,118,92,153332.44,95121.94
+L10040,26/01/2026,Google Ads,G_Shopping,Other,Headphones,New,1433.78,16781,3998,363,4,6049.6,3675.31
+L10041,16/02/2026,Facebook Ads,FB_Retargeting,Cairo,Smartphone,New,553.55,10515,1147,478,41,591811.22,347948.61
+L10042,01/02/2026,Google Ads,G_Brand,Mansoura,Tablet,New,243.66,41133,106,193,6,38506.56,25560.8
+L10043,10/01/2026,Facebook Ads,fb_retargeting,Other,Smart Watch,New,535.88,87508,627,448,41,132134.13,76293.9
+L10044,16/01/2026,Email Marketing,Email_Retention,Alexandria,Smartphone,Returning,815.78,81946,2748,377,35,487086.07,277628.11
+L10045,25/05/2026,Facebook Ads,FB_Summer,Cairo,Tablet,Returning,404.65,14095,646,480,104,768714.11,454502.2
+L10046,31/05/2026,Instagram Ads,IG_Retargeting,,Smartphone,New,612.61,25470,783,207,26,408540.1,226920.74
+L10047,26/01/2026,Google Ads,G_Shopping,Tanta,Smartphone,New,246.88,48129,4360,380,57,881145.49,580695.99
+L10048,27/03/2026,Google Ads,G_Brand,Other,Laptop,New,519.96,13531,3220,382,45,1282239.9,824798.42
+L10049,15/05/2026,Google Ads,G_Brand,Tanta,Tablet,New,665.46,42038,,470,65,572583.9,353041.32
+L10050,14/01/2026,Facebook Ads,FB_NewCustomers,Cairo,Smart Watch,New,630.55,47674,4774,96,24,99143.47,59294.25
+L10051,20/03/2026,Email Marketing,Email_NewOffers,Tanta,Laptop,New,979.29,87476,885,210,72,1629193.07,1143388.08
+L10052,27/04/2026,TikTok Ads,TT_Products,Other,Smartphone,New,378.17,34831,3871,346,116,1712175.38,900304.2
+L10053,07/01/2026,Email Marketing,Email_NewOffers,Giza,Accessories,Returning,791.7,62174,1437,331,26,20342.11,13706.95
+L10054,17/05/2026,Email Marketing,Email_Retention,Other,Smartphone,New,875.75,16279,3305,284,0,0,0
+L10055,25/04/2026,Instagram Ads,IG_Influencers,Tanta,Smartphone,New,447.31,43220,3698,220,86,1292804.77,787668.35
+L10056,25/06/2026,Email Marketing,Email_NewOffers,Mansoura,Tablet,New,403.13,65610,2206,400,73,581894.95,366674.18
+L10057,13/03/2026,Facebook Ads,FB_Summer,Giza,Tablet,New,1439.35,57719,2540,127,41,366266.27,259643.5
+L10058,28/02/2026,Facebook Ads,FB_Retargeting,alexandria,Laptop,New,561.66,58051,625,200,51,1198501.39,674103.7
+L10059,23/03/2026,Facebook Ads,FB_Retargeting,Cairo,Smart Watch,Returning,810.8,77013,2808,51,24,97042.42,60557.09
+L10060,26/04/2026,Google Ads,G_Shopping,Giza,Laptop,New,828.59,61652,3814,51,53,1177173.19,723895.86
+L10061,16/06/2026,Google Ads,G_Brand,Alexandria,Headphones,New,285.42,70524,2642,324,66,115838.48,66222.37
+L10062,26/05/2026,Facebook Ads,FB_NewCustomers,Other,Smartphone,Returning,733.87,87936,2159,285,5,73724.3,50406.68
+L10063,13/04/2026,TikTok Ads,TT_Products,Other,Accessories,Returning,714.64,11470,2721,338,57,51698.4,36184.75
+L10064,17/01/2026,Google Ads,G_Search,Mansoura,Smartphone,Returning,1443.37,72598,3194,26,69,843602.62,570601.44
+L10065,14/01/2026,Facebook Ads,FB_NewCustomers,Cairo,Smartphone,New,714.45,46798,2006,292,52,573771.33,320779.37
+L10066,08/06/2026,Google Ads,G_Search,Alexandria,Laptop,Returning,961,58473,696,440,65,1466822.67,788196.76
+L10067,01/06/2026,Facebook Ads,FB_Retargeting,Cairo,Accessories,New,980.56,24880,3724,267,57,52406.7,33597.35
+L10068,18/04/2026,TikTok Ads,TT_Products,Mansoura,Accessories,New,571.36,49439,1283,72,81,82878.77,44043.35
+L10069,14/02/2026,Facebook Ads,FB_Summer,Tanta,Accessories,New,1707.4,19308,1839,71,86,67180.85,43974.25
+L10070,08/04/2026,Email Marketing,Email_Promo,Other,Laptop,New,433.62,40081,2645,109,1,28706.89,17972.95
+L10071,11/05/2026,TikTok Ads,TT_Products,Alexandria,Smartphone,New,245.11,80242,3254,28,75,1145417.94,747450.66
+L10072,06/02/2026,Facebook Ads,FB_Retargeting,Other,Laptop,New,177.65,55383,3161,26,21,557986.79,356014.63
+L10073,20/06/2026,Facebook Ads,FB_Retargeting,Other,Tablet,Returning,508.27,14837,2710,334,36,301178.37,182074.53
+L10074,17/06/2026,TikTok Ads,TT_Conversions,Alexandria,Tablet,Returning,218.02,57151,3241,432,19,167193.74,93657.83
+L10075,18/04/2026,Instagram Ads,IG_Products,Other,Laptop,Returning,449.49,41824,4401,475,102,2445473.94,1421163.77
+L10076,08/02/2026,Instagram Ads,IG_Products,Alexandria,Accessories,New,661.41,38073,749,382,23,18658.01,11659.39
+L10077,15/01/2026,TikTok Ads,TT_Reach,Alexandria,Smartphone,Returning,750.75,31299,3248,255,111,1207478.5,785312.16
+L10078,30/04/2026,Facebook Ads,,Mansoura,Laptop,New,538.66,63861,2201,260,83,2571494.71,1738064.54
+L10079,04/01/2026,Google Ads,G_Shopping,Alexandria,Laptop,Returning,447.14,35063,4158,464,64,1953760.66,1315729.14
+L10080,03/04/2026,Facebook Ads,FB_NewCustomers,Giza,Laptop,New,504.43,74453,4231,90,64,1856100.38,1326253.79
+L10081,02/06/2026,TikTok Ads,TT_Reach,Giza,Headphones,Returning,865.28,73472,799,48,80,111985.43,64634.44
+L10082,21/05/2026,Instagram Ads,IG_Products,Giza,Tablet,New,362.78,19506,2680,45,0,0,0
+L10083,10/06/2026,Google Ads,G_Shopping,Alexandria,Accessories,Returning,448.44,84854,3678,433,116,86579.96,51006.97
+L10084,16/01/2026,Facebook Ads,FB_NewCustomers,Giza,Smart Watch,Returning,780.39,31026,4749,438,115,364941.32,244021.26
+L10085,19/06/2026,Google Ads,G_Brand,Giza,Accessories,New,694.93,32672,746,397,108,99077.13,60201.48
+L10086,18/04/2026,Google Ads,G_Shopping,Giza,Smart Watch,New,237.29,43417,363,495,93,424304.99,290036.94
+L10087,06/05/2026,Instagram Ads,IG_Retargeting,Alexandria,Headphones,Returning,1091.59,57413,3983,418,104,199555.91,125693.34
+L10088,24/02/2026,Instagram Ads,IG_Influencers,Cairo,Laptop,New,511.83,70066,3645,206,110,3115764.22,2199599.75
+L10089,19/06/2026,Email Marketing,Email_Promo,Giza,Headphones,Returning,338.66,64213,2314,167,2,2821.77,2002.25
+L10090,03/02/2026,Google Ads,G_Brand,Cairo,Headphones,New,292.79,55971,4673,213,45,68522.55,36581.51
+L10091,07/06/2026,Facebook Ads,FB_Retargeting,Mansoura,Smartphone,New,1099.28,32281,1545,205,54,674961.55,412592.31
+L10092,13/01/2026,instagram ads,IG_Products,Mansoura,Tablet,New,163.02,33091,,225,74,639757.49,410684.52
+L10093,21/05/2026,TikTok Ads,TT_Reach,Giza,Smart Watch,New,814.68,55494,4814,294,87,376649.65,215132.68
+L10094,18/01/2026,Instagram Ads,IG_Retargeting,Giza,Laptop,Returning,997.1,23610,2140,466,85,2143396.85,1289071.78
+L10095,09/06/2026,TikTok Ads,TT_Conversions,Other,Smart Watch,New,534.68,6079,3752,205,63,237150.24,155460.59
+L10096,06/04/2026,Google Ads,G_Shopping,Tanta,Accessories,New,1374.22,51751,2574,316,107,77821.02,43995.87
+L10097,03/05/2026,Google Ads,G_Brand,Other,Smart Watch,New,374.72,60432,1072,161,44,157301.36,100735.2
+L10098,08/02/2026,Google Ads,G_Brand,Tanta,Accessories,New,862.02,35951,2201,23,25,21563.81,14221.11
+L10099,15/02/2026,Facebook Ads,FB_Summer,Cairo,Tablet,Returning,699.4,85863,2664,334,76,510949.87,274941.75
+L10100,29/01/2026,Facebook Ads,FB_Retargeting,Cairo,Accessories,Returning,1462.45,83291,4276,155,64,55245.53,34224.93
+L10101,03/03/2026,Facebook Ads,FB_Summer,Giza,Smart Watch,New,567.8,64872,2303,435,23,101295.87,58003.64
+L10102,16/01/2026,Instagram Ads,IG_Products,Cairo,Smart Watch,Returning,817.58,12235,4602,66,73,292331.56,194364.61
+L10103,01/05/2026,Google Ads,G_Search,Giza,Accessories,Returning,697.12,87733,3268,220,34,25117.3,14013.22
+L10104,10/01/2026,Google Ads,G_Search,Alexandria,Headphones,New,261.15,67712,3317,277,23,33827.32,23626.61
+L10105,07/06/2026,Email Marketing,Email_Retention,Giza,Tablet,Returning,610.92,26473,4216,219,27,210242.77,127446.7
+L10106,02/06/2026,Facebook Ads,FB_Summer,Mansoura ,Smartphone,New,476,72567,4604,26,99,1258245.18,704114.77
+L10107,13/04/2026,Google Ads,G_Shopping,Mansoura,Laptop,New,699.56,84823,423,295,79,1971310.86,1197777.07
+L10108,25/03/2026,TikTok Ads,TT_Conversions,Giza,Smart Watch,Returning,825.58,37230,4541,353,103,404586.38,243459.35
+L10109,13/05/2026,Facebook Ads,FB_NewCustomers,Tanta,Laptop,New,1238.87,89573,4784,212,15,408065.24,247199.31
+L10110,06/03/2026,Facebook Ads,FB_Retargeting,Alexandria,Smartphone,Returning,138.53,73876,4903,108,58,865306.2,551297.19
+L10111,26/06/2026,Facebook Ads,FB_NewCustomers,Other,Laptop,Returning,660.15,45644,2356,288,80,1982091.32,1237290.27
+L10112,03/01/2026,Facebook Ads,FB_Retargeting,Cairo,Smartphone,New,306.26,53664,3281,218,114,1705752.52,938087.85
+L10113,22/06/2026,Email Marketing,Email_Retention,Other,Accessories,Returning,867.84,50203,968,138,53,43729.68,23312.98
+L10114,22/05/2026,TikTok Ads,TT_Conversions,Mansoura,Headphones,New,1758.44,71677,2123,344,78,108023.98,71931.34
+L10115,30/04/2026,Instagram Ads,IG_Influencers,Alexandria,Smart Watch,New,550.91,30425,1421,297,15,59469.84,37581.58
+L10116,07/06/2026,Email Marketing,Email_NewOffers,Cairo,Smartphone,Returning,423.58,89817,3800,261,14,194020.46,114821.34
+L10117,09/03/2026,TikTok Ads,TT_Reach,Giza,Laptop,Returning,510.07,74806,2963,274,97,2977612.78,2029753.96
+L10118,26/05/2026,Facebook Ads,,Cairo,Smart Watch,New,308.9,47814,4292,280,10,42173.1,25203.14
+L10119,06/02/2026,Email Marketing,Email_NewOffers,Cairo,Headphones,New,99.73,75219,2495,421,64,123404.59,83815.54
+L10120,02/06/2026,Google Ads,G_Brand,Giza,Accessories,Returning,753.57,54646,1197,417,78,79132.98,45988.23
+L10121,25/06/2026,TikTok Ads,TT_Products,Giza,Smart Watch,Returning,644.37,44884,4343,197,89,359446.43,192148.94
+L10122,30/06/2026,Email Marketing,Email_Promo,Mansoura,Smartphone,Returning,429.88,74322,3081,428,114,1545086.74,1091646.95
+L10123,14/03/2026,Google Ads,G_Brand,Other,Headphones,New,349.64,26650,1818,223,67,113979.58,68263.54
+L10124,23/05/2026,Facebook Ads,FB_Retargeting,Giza,Laptop,New,993.13,14190,1444,292,42,1307621.69,887271.68
+L10125,18/02/2026,Facebook Ads,FB_Retargeting,Giza,Headphones,New,1188.58,43196,2788,220,68,124922.5,71933.98
+L10126,01/05/2026,Google Ads,G_Brand,Cairo,Headphones,Returning,706.56,44449,4870,374,98,138860.86,90158.61
+L10127,29/03/2026,TikTok Ads,TT_Products,Mansoura,Tablet,New,170.52,44661,1004,85,12,104289.89,72446.24
+L10128,20/05/2026,TikTok Ads,TT_Conversions,Alexandria,Headphones,New,597.66,34709,231,157,9,13116.95,6930.06
+L10129,06/02/2026,Facebook Ads,FB_Retargeting,Other,Headphones,Returning,781.84,85428,665,330,74,120755.48,82853.61
+L10130,02/03/2026,Google Ads,G_Search,Tanta,Smart Watch,New,562.64,80179,992,222,81,280209.43,177727.48
+L10131,20/06/2026,Google Ads,G_Shopping,Giza,Laptop,Returning,598.4,14943,2401,442,97,2740598.33,1758078.35
+L10132,04/05/2026,Facebook Ads,FB_Retargeting,Cairo,Smart Watch,Returning,447.41,48240,575,118,102,452843.82,282860.56
+L10133,08/02/2026,Facebook Ads,FB_NewCustomers,Tanta,Smart Watch,Returning,569.46,50760,3875,138,40,143073.28,99420.91
+L10134,04/03/2026,Google Ads,G_Shopping,Tanta,Smartphone,New,1040.23,26042,2228,19,105,1185576.47,626798.48
+L10135,15/02/2026,Email Marketing,Email_Promo,Cairo,Smart Watch,New,728.24,48894,636,,49,175850.46,100622.63
+L10136,29/03/2026,Google Ads,G_Shopping,Alexandria,Tablet,Returning,485.26,11869,1632,388,86,720273.78,500700.12
+L10137,11/01/2026,Google Ads,G_Brand,Tanta,Tablet,Returning,563.52,66078,2200,324,70,514714.3,345100.05
+L10138,03/03/2026,Instagram Ads,IG_Influencers,Cairo,Smartphone,Returning,1241.22,61759,3165,105,58,712612.32,373073.24
+L10139,18/03/2026,Google Ads,G_Shopping,Other,Accessories,New,353.83,49306,3584,455,38,29405.34,18331.33
+L10140,02/06/2026,Email Marketing,Email_NewOffers,Alexandria,Laptop,Returning,449.94,60371,236,112,2,52675.45,32970.33
+L10141,21/02/2026,Email Marketing,Email_Promo,Cairo,Laptop,Returning,,25918,814,389,75,1809569.22,1086060.79
+L10142,04/01/2026,Facebook Ads,FB_Summer,Tanta,Smart Watch,Returning,469.19,33379,4734,351,6,25347.51,14688.34
+L10143,28/02/2026,Google Ads,G_Shopping,Alexandria,Smart Watch,Returning,1211.64,88232,3356,155,48,156606.48,102787.88
+L10144,13/03/2026,Google Ads,G_Shopping,Giza,Accessories,Returning,1053.03,7962,234,377,25,23332.27,13102.43
+L10145,28/05/2026,Facebook Ads,FB_Retargeting,Cairo,Smart Watch,New,590.57,18851,1076,439,32,111974.82,76119.33
+L10146,03/04/2026,Facebook Ads,FB_NewCustomers,Cairo,Laptop,New,1687.18,50747,2374,425,100,2625556.06,1786972.97
+L10147,04/03/2026,Instagram Ads,IG_Products,Giza,Headphones,New,756.95,57349,4706,36,47,71921.12,43372.2
+L10148,23/02/2026,Google Ads,G_Search,Giza,Tablet,New,1330.91,75832,2985,229,78,664968.47,383493.7
+L10149,27/04/2026,Facebook Ads,FB_NewCustomers,Giza,Headphones,New,1267.88,61356,4904,27,1,1945.54,1122.14
+L10150,20/04/2026,Facebook Ads,FB_Summer,Tanta,Headphones,New,813.48,19745,1257,176,104,200486.87,123591.79
+L10151,15/03/2026,Email Marketing,Email_Retention,Mansoura,Laptop,New,338.95,10730,233,442,70,1903627.35,1263848.36
+L10152,17/04/2026,Facebook Ads,FB_Retargeting,Cairo,Headphones,New,679.94,18921,4267,486,31,50884.78,30112.28
+L10153,26/02/2026,Facebook Ads,FB_Retargeting,Alexandria,Accessories,New,441.47,76138,1796,91,3,2953.75,1896.33
+L10154,18/06/2026,Google Ads,G_Search,Other,Smartphone,Returning,859.57,88111,3282,437,19,272514.74,162554.2
+L10155,03/01/2026,Email Marketing,Email_Retention,Tanta,Smart Watch,Returning,790.47,24023,2937,81,113,386441.84,224485.86
+L10156,30/04/2026,Facebook Ads,FB_NewCustomers,Giza,Smartphone,New,738.03,50349,866,319,116,1744775.14,915957.93
+L10157,06/01/2026,Instagram Ads,IG_Influencers,Cairo,Tablet,Returning,968.84,86533,4448,488,35,267782.59,139456.57
+L10158,05/01/2026,TikTok Ads,TT_Reach,Alexandria,Smart Watch,New,772.94,88286,4352,,31,106262.08,60084.99
+L10159,05/01/2026,Facebook Ads,FB_NewCustomers,Mansoura,Headphones,New,628.66,46979,3847,171,27,41243.37,24798.87
+L10160,23/02/2026,Instagram Ads,IG_Influencers,Tanta,Tablet,New,323.1,27837,2958,336,76,544987.86,376179.09
+L10161,16/02/2026,Google Ads,G_Search,Mansoura,Smart Watch,New,465.71,19997,722,429,0,0,0
+L10162,26/06/2026,Instagram Ads,IG_Retargeting,Tanta,Accessories,Returning,369.95,50039,4742,411,59,46635.26,26742.2
+L10163,09/01/2026,Instagram Ads,IG_Retargeting,Tanta,Accessories,Returning,998.76,25923,745,47,55,41447.22,23579.66
+L10164,09/04/2026,Google Ads,G_Shopping,Cairo,Accessories,New,607.44,13876,3506,452,34,25623.33,14489.08
+L10165,20/01/2026,Facebook Ads,FB_Summer,Alexandria,Accessories,New,739.61,65973,3863,402,111,100614.77,59146.14
+L10166,02/05/2026,TikTok Ads,TT_Products,Cairo,Headphones,New,508.19,7887,3781,210,29,52574.05,32576.97
+L10167,02/03/2026,Google Ads,G_Shopping,Cairo,Smartphone,New,1120.46,68723,1149,209,53,662859.34,402841.86
+L10168,03/05/2026,Facebook Ads,FB_Retargeting,Other,Smart Watch,New,887.8,47422,2429,264,35,112032.78,63147.8
+L10169,12/06/2026,Facebook Ads,FB_Summer,Giza,Headphones,New,694.47,56413,4583,188,54,77228.19,42173.56
+L10170,27/06/2026,Instagram Ads,IG_Retargeting,Giza,Accessories,Returning,641.96,7841,1292,44,88,89463.96,46746.31
+L10171,23/03/2026,Instagram Ads,IG_Products,Cairo,Smartphone,Returning,416.45,33756,1232,91,79,1056998.99,582187.27
+L10172,03/03/2026,Facebook Ads,FB_NewCustomers,Alexandria,Tablet,New,471.4,76576,2591,398,57,440289.61,291062.81
+L10173,25/05/2026,Google Ads,G_Search,Cairo,Tablet,Returning,261.39,15304,223,407,82,532032.1,302581.4
+L10174,03/01/2026,Facebook Ads,FB_Summer,Cairo,Tablet,New,896.69,35341,2569,229,64,546732.49,335540.86
+L10175,09/06/2026,Instagram Ads,IG_Products,Giza,Accessories,New,937.35,9758,3308,167,68,60389.62,38544.29
+L10176,13/01/2026,Facebook Ads,FB_Summer,Cairo,Tablet,New,957.94,22010,4662,13,50,348809.54,243248.67
+L10177,30/04/2026,Instagram Ads,IG_Influencers,Giza,Laptop,Returning,383.86,65758,3285,176,21,471932.7,329300.96
+L10178,05/05/2026,Google Ads,G_Brand,Cairo,Smart Watch,Returning,1288.31,36658,4323,477,87,323081.47,216188.91
+L10179,30/03/2026,Email Marketing,Email_Retention,Cairo,Smart Watch,New,551.86,54002,3222,457,106,464346.58,244725.23
+L10180,14/03/2026,Facebook Ads,FB_NewCustomers,Cairo,Accessories,New,844.33,6375,3384,418,108,108022.73,68595.95
+L10181,09/03/2026,Google Ads,G_Brand,Giza,Laptop,Returning,319.21,27092,1437,421,115,3149665.15,2133320.79
+L10182,22/05/2026,Facebook Ads,FB_Retargeting,mansoura,Headphones,New,1148.32,5490,2793,213,100,180834.79,94659.35
+L10183,11/04/2026,Email Marketing,Email_NewOffers,Alexandria,Headphones,Returning,919.23,8729,4265,203,52,73972.5,46598.01
+L10184,08/04/2026,Email Marketing,Email_Promo,Alexandria,Tablet,New,564.3,10974,1437,244,99,804342.83,556245.56
+L10185,11/01/2026,Facebook Ads,FB_Summer,Mansoura,Smartphone,New,511.14,88860,4374,215,35,499094.78,306853.66
+L10186,15/04/2026,Instagram Ads,IG_Retargeting,Cairo,Headphones,New,908.05,26398,4713,159,67,98922.09,51520.73
+L10187,08/03/2026,TikTok Ads,TT_Conversions,Alexandria,Smartphone,Returning,1146.69,39650,3272,168,35,536962.48,280403.24
+L10188,03/05/2026,Instagram Ads,IG_Retargeting,Tanta,Smart Watch,New,418.01,26292,380,288,51,175268.91,105744.5
+L10189,29/01/2026,Google Ads,G_Search,Giza,Smartphone,Returning,627.02,8159,803,313,52,648226.68,357174.02
+L10190,17/05/2026,Facebook Ads,FB_NewCustomers,Alexandria ,Smart Watch,New,501.14,67766,3090,413,81,329039.7,214826.77
+L10191,02/06/2026,Facebook Ads,FB_Summer,Other,Laptop,Returning,1173.49,22065,147,390,49,1359384.55,899586.12
+L10192,17/03/2026,Email Marketing,Email_Retention,,Laptop,Returning,474.72,26638,3916,175,79,2239757.66,1244355.51
+L10193,19/06/2026,Email Marketing,Email_NewOffers,Cairo,Accessories,Returning,326.49,6073,4073,320,40,29989.76,20924.06
+L10194,09/01/2026,Instagram Ads,IG_Influencers,Mansoura,Accessories,New,928.35,51511,2586,77,17,16914.1,10290.23
+L10195,09/02/2026,Google Ads,G_Search,Giza,Tablet,New,1235.31,89307,1617,472,21,167164.62,91701.36
+L10196,25/01/2026,Google Ads,G_Shopping,Alexandria,Headphones,New,901.72,34320,477,97,65,107050.63,72029.05
+L10197,05/01/2026,Instagram Ads,IG_Products,Alexandria,Tablet,Returning,1102.44,74876,4795,226,20,185875.31,126022.51
+L10198,19/05/2026,Email Marketing,Email_NewOffers,Alexandria,Smart Watch,New,1629.79,39924,3437,10,99,419597.25,271839.89
+L10199,04/05/2026,Email Marketing,Email_Promo,Giza,Tablet,New,1468.39,86720,1243,144,43,289220.92,199762.9
+L10200,07/02/2026,TikTok Ads ,TT_Reach,Alexandria,Smartphone,New,1476.63,45734,4905,194,102,1500872.5,1001794.26
+L10201,13/03/2026,Instagram Ads,IG_Retargeting,Tanta,Smart Watch,New,504.49,73116,635,360,46,151340.73,105399.91
+L10202,13/05/2026,Facebook Ads,FB_Retargeting,Mansoura,Accessories,Returning,933.45,45025,3741,149,38,27422.09,16639.11
+L10203,25/06/2026,Facebook Ads,FB_NewCustomers,Cairo,Laptop,New,716.39,7159,1831,115,28,711232.71,476184.12
+L10204,31/03/2026,Email Marketing,Email_Promo,Mansoura,Accessories,Returning,709.86,53940,3021,142,53,55271.83,39792.97
+L10205,26/05/2026,Instagram Ads,IG_Products,Cairo,Headphones,New,1125.43,84436,2737,117,89,129955.74,86418.78
+L10206,06/02/2026,Facebook Ads,FB_Summer,Giza,Smart Watch,New,868.02,81976,2875,187,84,347658.12,188721.61
+L10207,01/03/2026,Facebook Ads,FB_NewCustomers,Mansoura,Smart Watch,New,637.46,19678,2409,307,16,54478.28,33976.13
+L10208,25/06/2026,Instagram Ads,IG_Influencers,Cairo,Smartphone,New,459.52,66075,2039,367,79,1149710.22,732905.27
+L10209,28/01/2026,Facebook Ads,FB_Retargeting,Alexandria,Headphones,New,871.74,52204,1681,389,59,98434,54615.33
+L10210,22/03/2026,Facebook Ads,FB_Retargeting,Cairo,Laptop,Returning,606.25,17021,2873,405,30,844731.53,601937.38
+L10211,24/04/2026,Google Ads,G_Shopping,Cairo,Smart Watch,New,1122.72,11772,1560,368,114,393097.49,218214.69
+L10212,09/02/2026,Instagram Ads,IG_Products,Alexandria,Smart Watch,Returning,1105.48,72163,1182,155,72,305717.3,169829.5
+L10213,14/02/2026,Instagram Ads,IG_Products,Alexandria,Smartphone,New,809.31,78755,3356,459,94,1497210.07,1052588.73
+L10214,03/03/2026,Facebook Ads,FB_Retargeting,Other,Tablet,New,366.7,28464,1379,83,77,643358.89,394405.43
+L10215,03/04/2026,Instagram Ads,IG_Products,Alexandria,Laptop,Returning,532.19,56137,3959,472,48,1262278.22,672336.91
+L10216,25/04/2026,Facebook Ads,FB_Retargeting,Alexandria,Accessories,New,1507.01,35232,1615,487,100,101945.54,65208.19
+L10217,08/03/2026,Google Ads,G_Brand,Giza,Headphones,New,857.21,66497,157,117,1,1359.99,870.89
+L10218,25/02/2026,Instagram Ads,IG_Retargeting,Cairo,Smart Watch,New,1233.19,79024,2911,131,115,485643.57,258799.53
+L10219,09/02/2026,Instagram Ads,IG_Influencers,Other,Smart Watch,New,376.5,56448,3490,26,47,209453.5,149655.47
+L10220,08/04/2026,,TT_Reach,Giza,Accessories,Returning,2377.85,89517,2801,205,109,79897.74,50240.18
+L10221,09/02/2026,Instagram Ads,IG_Retargeting,Mansoura,Laptop,New,238.17,5901,3707,336,13,336237.07,212488.09
+L10222,01/04/2026,Instagram Ads,IG_Products,Cairo,Tablet,Returning,863.67,88597,1612,327,58,405074.34,252775.74
+L10223,02/02/2026,Facebook Ads,FB_NewCustomers,Alexandria,Smart Watch,Returning,223.74,7881,317,306,96,382347.04,245522.76
+L10224,06/01/2026,Google Ads,G_Brand,Alexandria,Laptop,New,1122.7,34863,2076,488,98,2729710.72,1563741.95
+L10225,27/05/2026,Facebook Ads,FB_NewCustomers,Tanta,Accessories,Returning,418.98,10622,3507,261,57,46347.97,26763.56
+L10226,21/03/2026,Facebook Ads,FB_Summer,Cairo,Smartphone,New,609.96,6378,357,496,102,1347359.51,838418.46
+L10227,17/06/2026,Email Marketing,Email_Promo,Alexandria,Tablet,Returning,781.15,88168,3169,128,57,410743.99,279855.15
+L10228,02/04/2026,Google Ads,G_Search,Other,Headphones,New,975.55,76186,603,171,110,174098.81,92267.65
+L10229,07/04/2026,Email Marketing,Email_Promo,Giza,Smart Watch,Returning,,50201,4355,207,50,169226.19,108419.98
+L10230,28/02/2026,Instagram Ads,IG_Influencers,Alexandria,Laptop,New,735.76,64251,4298,495,83,2507301.8,1708364.19
+L10231,28/02/2026,TikTok Ads,TT_Products,Cairo,Smartphone,New,764.57,77572,3202,54,1,10925.8,6024.31
+L10232,17/02/2026,Google Ads,G_Shopping,Other,Headphones,Returning,686.11,44255,4655,323,114,217274.63,113635.61
+L10233,18/06/2026,Instagram Ads,IG_Retargeting,Cairo,Laptop,Returning,599.1,68212,1877,188,40,1083099.87,630951.88
+L10234,13/01/2026,Google Ads,G_Search,Mansoura,Laptop,New,506.66,55210,2211,391,82,2024029.53,1290579.4
+L10235,17/04/2026,Facebook Ads,FB_NewCustomers,Tanta,Headphones,New,785.45,27499,895,427,100,180552.6,98880.83
+L10236,14/02/2026,Instagram Ads,,Cairo,Smartphone,Returning,772.13,56628,2774,53,81,1089599.22,659452.12
+L10237,30/03/2026,Facebook Ads,FB_NewCustomers,Mansoura,Accessories,Returning,455.96,66360,522,280,15,13176.8,8307.5
+L10238,30/06/2026,Facebook Ads,FB_Retargeting,Cairo,Smartphone,Returning,600.63,9603,3220,87,3,34301.92,21945.57
+L10239,19/06/2026,Instagram Ads,IG_Retargeting,Cairo,Tablet,Returning,225.28,17632,222,335,11,82871.91,47641.6
+L10240,10/04/2026,Facebook Ads,FB_NewCustomers,Tanta,Smart Watch,Returning,583.57,35607,4367,187,28,98122.21,58873.91
+L10241,04/06/2026,Email Marketing,Email_NewOffers,Other,Headphones,Returning,229.97,70756,1490,366,6,8159.33,5513
+L10242,15/06/2026,Email Marketing,Email_NewOffers,Giza,Accessories,New,512.99,51994,4553,425,13,10819.03,7662.5
+L10243,07/01/2026,Email Marketing,Email_Retention,Giza,Headphones,New,368.34,68382,614,460,118,165977.38,114918.77
+L10244,13/05/2026,Google Ads,G_Brand,Cairo,Headphones,Returning,430.87,75354,1796,,11,16629.83,10524.3
+L10245,14/02/2026,Facebook Ads,FB_NewCustomers,Cairo,Smartphone,Returning,1253.38,61344,3444,223,98,1111763.14,669346.52
+L10246,27/02/2026,Email Marketing,Email_Promo,Cairo,Smart Watch,New,340.21,58775,1112,351,4,13193.54,7739.22
+L10247,31/01/2026,Google Ads,G_Search,Cairo,Tablet,New,537.68,12349,3422,83,80,557364.69,303758.91
+L10248,23/01/2026,Email Marketing,Email_Retention,Alexandria,Laptop,Returning,781.2,76154,1490,60,105,3291592.1,1781772.54
+L10249,19/06/2026,Email Marketing,Email_NewOffers,Alexandria,Laptop,New,195.06,32464,4580,76,31,663300.39,436233.78
+L10250,18/05/2026,TikTok Ads,TT_Products,Alexandria,Headphones,New,609.6,47624,1252,341,73,127922.55,73166.44
+L10251,09/06/2026,Facebook Ads,FB_Summer,Cairo,Smart Watch,New,744.89,42344,968,102,42,141020.39,80513.1
+L10252,17/04/2026,Google Ads,G_Shopping,Giza,Accessories,New,357.22,88791,3418,185,80,81488.71,58642.45
+L10253,30/06/2026,TikTok Ads,TT_Reach,Tanta,Smartphone,New,280.33,29299,4597,154,68,771812.71,430351.34
+L10254,07/06/2026,Google Ads,G_Search,Cairo,Smart Watch,New,967.61,52975,1721,16,44,200373.49,110127.66
+L10255,08/02/2026,Facebook Ads,FB_Summer,Other,Smart Watch,New,200.05,6462,551,278,105,425046.49,229413.34
+L10256,08/06/2026,Instagram Ads,IG_Products,Other,Smartphone,Returning,533.36,86441,3020,385,8,87051.48,55361.35
+L10257,23/03/2026,Email Marketing,Email_NewOffers,Cairo,Headphones,New,329.83,86788,626,331,48,91834.78,59286.03
+L10258,10/04/2026,Instagram Ads,IG_Influencers,Tanta,Smart Watch,Returning,139.59,45581,4806,13,32,125341.32,74333.12
+L10259,02/01/2026,Instagram Ads,IG_Products,Giza,Laptop,Returning,1130.86,76289,3677,147,99,2375517.93,1489646.12
+L10260,18/03/2026,Facebook Ads,FB_Retargeting,Giza,Smartphone,New,923.95,19175,2905,240,99,1462125.24,990852.9
+L10261,12/01/2026,Instagram Ads,IG_Retargeting,Alexandria,Accessories,Returning,1178.08,11191,3803,97,17,17350.48,11861.15
+L10262,08/02/2026,Email Marketing,Email_Retention,Giza,Tablet,New,708.29,88434,443,26,8,62511.84,44482.33
+L10263,13/01/2026,Facebook Ads,FB_Retargeting,Alexandria,Headphones,Returning,330.16,89518,2246,61,61,94476.72,64702.72
+L10264,15/02/2026,Google Ads,G_Search,Giza,Smartphone,New,502.4,85158,3389,143,56,833218.2,527400.7
+L10265,04/06/2026,Email Marketing,Email_NewOffers,Giza,Tablet,Returning,272.13,71537,625,220,28,235292.73,130806.62
+L10266,23/04/2026,Instagram Ads,IG_Retargeting,Mansoura,Tablet,New,570.27,52645,3320,334,113,1019151.37,550293.55
+L10267,17/01/2026,Instagram Ads,IG_Products,Giza,Accessories,New,1094.23,28283,4809,489,77,72592.59,38539.58
+L10268,14/04/2026,Instagram Ads,IG_Retargeting,Mansoura,Smart Watch,New,504.66,64123,2016,467,24,84191.68,55002.86
+L10269,08/04/2026,Google Ads,G_Shopping,Cairo,Accessories,Returning,786.18,35024,1042,402,14,14311.87,9753.64
+L10270,29/03/2026,Facebook Ads,FB_Summer,Cairo,Smart Watch,Returning,754.47,54630,3085,228,5,16520.54,10271.43
+L10271,19/04/2026,TikTok Ads,TT_Products,Tanta,Smart Watch,New,315.03,35734,3886,214,119,421721.23,223909.87
+L10272,12/06/2026,TikTok Ads,TT_Products,Alexandria,Smartphone,Returning,319.65,5515,962,220,41,554114.49,347481.94
+L10273,11/03/2026,TikTok Ads,TT_Reach,Cairo,Smartphone,New,914.93,71727,3920,286,28,384891.94,272176.28
+L10274,07/06/2026,Email Marketing,Email_NewOffers,Cairo,Headphones,Returning,397.74,51216,950,33,78,106052.36,67822.89
+L10275,15/03/2026,Google Ads,g_search,Cairo,Smart Watch,New,808.52,76833,4691,495,92,395364.66,269593.43
+L10276,04/03/2026,Google Ads,G_Search,Other,Tablet,Returning,393.74,63755,,13,3,22352.35,15200.28
+L10277,05/06/2026,TikTok Ads,TT_Reach,Giza,Laptop,New,442.95,32856,945,161,81,2059751.02,1455061.3
+L10278,01/03/2026,Instagram Ads,IG_Influencers,Other,Headphones,New,799.98,78870,4389,452,113,210169.02,141663.54
+L10279,20/03/2026,Instagram Ads,IG_Products,Giza,Smartphone,New,596.38,29162,3283,492,56,716792.34,479921.22
+L10280,06/02/2026,TikTok Ads,TT_Conversions,Giza,Accessories,New,546.56,11008,2977,268,48,34953.71,19812.48
+L10281,22/01/2026,Email Marketing,Email_NewOffers,Alexandria,Headphones,New,372.77,12987,2324,333,43,62829.75,33424.49
+L10282,28/05/2026,Google Ads,G_Brand,Giza,Headphones,New,700.86,67532,98,366,102,199126.34,124159.23
+L10283,06/04/2026,Google Ads,G_Brand,Cairo,Headphones,Returning,409.52,8332,721,177,79,110154.07,60021.5
+L10284,09/03/2026,Facebook Ads,FB_NewCustomers,Other,Headphones,New,855.94,71323,3163,185,74,116446.89,82961.33
+L10285,17/01/2026,Instagram Ads,IG_Retargeting,Tanta,Laptop,New,377.08,43990,409,319,13,343124.76,198320.95
+L10286,12/01/2026,Facebook Ads,FB_NewCustomers,Alexandria,Accessories,New,543.33,14873,945,300,2,1753.03,1210.62
+L10287,30/05/2026,Google Ads,G_Brand,Other,Accessories,New,863.72,87542,853,488,114,81375.1,48623.65
+L10288,25/05/2026,Google Ads,G_Search,Tanta,Accessories,New,767.44,41444,4567,65,113,99342.44,58079.45
+L10289,18/05/2026,Facebook Ads,FB_NewCustomers,Mansoura,Smart Watch,New,797.96,40340,4812,117,61,226562.88,160187.14
+L10290,28/04/2026,Instagram Ads,IG_Retargeting,Cairo,Tablet,New,612.32,10033,2434,482,105,973028.28,576679.33
+L10291,22/01/2026,Facebook Ads,FB_Retargeting,Giza,Accessories,New,330.26,78324,3418,305,63,48221.48,28839.22
+L10292,30/04/2026,Facebook Ads,FB_Retargeting,Giza,Headphones,New,989.01,20689,3598,470,101,158884.83,85991.39
+L10293,19/02/2026,TikTok Ads,TT_Conversions,Cairo,Headphones,New,650.62,5066,3022,333,44,71028.03,46458.68
+L10294,14/01/2026,Google Ads,G_Brand,Cairo,Accessories,New,458.68,50246,2647,311,105,88452.59,51105.07
+L10295,24/06/2026,Facebook Ads,FB_NewCustomers,Tanta,Accessories,New,,12533,1754,343,81,75644.99,48195
+L10296,29/01/2026,Google Ads,G_Shopping,Cairo,Headphones,Returning,1374.28,85639,2763,150,57,84689.07,54054.52
+L10297,13/06/2026,TikTok Ads,TT_Conversions,Giza,Smart Watch,New,591.59,75152,3460,164,19,66024.53,43829.72
+L10298,29/06/2026,Facebook Ads,FB_NewCustomers,Other,Smartphone,Returning,285.31,64658,819,271,57,830817.5,555857.03
+L10299,05/05/2026,Instagram Ads,IG_Retargeting,Other,Smartphone,New,1151.81,43498,1625,282,111,1488951.16,927453.51
+L10300,07/01/2026,Facebook Ads,FB_Summer,Cairo,Accessories,Returning,541.92,16772,4644,429,88,74847.46,43875.46
+L10301,29/01/2026,Facebook Ads,FB_Retargeting,Tanta,Laptop,Returning,474.22,54036,2339,241,56,1291516.82,887905.13
+L10302,19/05/2026,Google Ads,G_Shopping,Cairo,Accessories,New,346.58,63531,1215,250,101,78260.13,45545.29
+L10303,02/02/2026,Google Ads,g_search,Cairo,Accessories,Returning,667.36,17940,953,364,76,54416.64,33820.04
+L10304,14/05/2026,Instagram Ads,IG_Products,Giza,Smartphone,New,1015.24,21932,4635,346,67,759712.22,456017.65
+L10305,21/04/2026,Instagram Ads,IG_Influencers,Alexandria,Headphones,New,679.61,61827,2380,498,118,200695.39,138683.66
+L10306,20/03/2026,Email Marketing,Email_NewOffers,Alexandria,Accessories,Returning,498.75,66431,831,267,77,77696.68,47114
+L10307,09/06/2026,Google Ads,G_Search,Giza,Headphones,Returning,256.37,29648,933,258,96,146967.72,87772.04
+L10308,28/06/2026,Google Ads,G_Search,Cairo,Headphones,New,561.44,37966,3812,86,91,141639.75,93193.96
+L10309,27/02/2026,TikTok Ads,TT_Products,Cairo,Laptop,New,749.66,32777,2363,189,51,1148936.46,735880.27
+L10310,26/01/2026,Facebook Ads,FB_Retargeting,Giza,Headphones,New,397.45,37567,1409,75,36,57414.15,31086.86
+L10311,23/06/2026,Google Ads,G_Search,Mansoura,Smartphone,New,1176.75,22174,557,317,7,77447.3,48143.86
+L10312,29/01/2026,Facebook Ads,FB_NewCustomers,Giza,Smart Watch,Returning,505.93,47598,2806,357,43,193451.54,129050.69
+L10313,04/01/2026,Facebook Ads,FB_Retargeting,Alexandria,Smart Watch,New,778.48,64199,3171,180,97,401528.95,288464.4
+L10314,09/04/2026,Email Marketing,Email_Promo,Alexandria,Tablet,New,517.83,18798,4310,483,107,997505.11,644218.09
+L10315,21/05/2026,TikTok Ads,TT_Conversions,Cairo,Accessories,New,950.58,70364,4585,31,4,4024.15,2390.58
+L10316,08/02/2026,Instagram Ads,IG_Influencers,Cairo,Smartphone,New,700.03,22558,1349,376,117,1553224.99,877929.86
+L10317,15/01/2026,Google Ads,G_Search,Tanta,Headphones,New,1342.41,66084,4261,116,68,114063.31,79224.5
+L10318,29/04/2026,Facebook Ads,FB_Retargeting,Cairo,Smart Watch,Returning,708.66,49237,2683,448,30,102904.4,70274.76
+L10319,29/01/2026,Facebook Ads,FB_Summer,Cairo,Smartphone,Returning,849.98,70497,1549,,44,581673.39,329683.5
+L10320,06/06/2026,Facebook Ads,FB_Retargeting,Mansoura,Smart Watch,Returning,729.83,5178,457,236,8,35819.61,20063.51
+L10321,16/03/2026,Google Ads,G_Brand,Giza,Headphones,New,332.8,22118,1760,453,105,145113.95,96214.52
+L10322,26/04/2026,Instagram Ads,IG_Influencers,Giza,Smart Watch,Returning,,27616,321,451,31,137002.28,79871.02
+L10323,01/02/2026,Instagram Ads,IG_Products,,Accessories,Returning,780.92,5798,999,405,32,26427.68,15361.88
+L10324,10/05/2026,Facebook Ads,FB_Retargeting,Cairo,Accessories,Returning,861.45,12601,149,225,66,66764.81,36751.23
+L10325,24/06/2026,Email Marketing,Email_Promo,Cairo,Tablet,New,1064.01,30363,4004,78,29,266049.41,152391.8
+L10326,25/03/2026,Instagram Ads,IG_Products,Cairo,Tablet,New,1086.49,7795,2166,93,113,945903,572745.7
+L10327,22/01/2026,Instagram Ads,IG_Retargeting,Mansoura,Smart Watch,New,351.46,50264,2087,112,75,309502.72,206304.51
+L10328,27/01/2026,Instagram Ads,IG_Retargeting,Tanta,Smartphone,New,309.95,77833,880,,28,368836.39,216603.46
+L10329,22/03/2026,Google Ads,G_Shopping,Mansoura,Accessories,New,415.75,8084,2859,22,2,1980.63,1160.1
+L10330,06/05/2026,Facebook Ads,FB_NewCustomers,Tanta,Smartphone,New,315.82,81646,835,306,89,1402211.44,809051.67
+L10331,02/04/2026,Google Ads,G_Search,Alexandria,Smartphone,New,511.35,5731,2075,322,56,829278.25,510550.74
+L10332,21/01/2026,TikTok Ads,TT_Reach,Mansoura,Smart Watch,Returning,336.65,6129,1401,190,29,117863.16,65546.93
+L10333,16/02/2026,Facebook Ads,FB_NewCustomers,Alexandria,Smartphone,New,349.86,33022,2410,277,8,111635.79,68893.36
+L10334,11/04/2026,Facebook Ads,FB_Retargeting,Giza,Accessories,New,768.28,6605,189,22,25,24873.72,16437.43
+L10335,25/03/2026,Facebook Ads,FB_NewCustomers,Giza,Headphones,Returning,239.17,82506,1096,129,1,1690.96,889.37
+L10336,06/01/2026,Facebook Ads,FB_NewCustomers,Cairo,Tablet,Returning,663.41,49130,3945,467,61,534755.47,279118.76
+L10337,27/05/2026,TikTok Ads,TT_Products,Alexandria,Headphones,Returning,987.04,34265,104,362,2,3341.2,1787.62
+L10338,11/05/2026,Instagram Ads,IG_Products,Other,Smartphone,Returning,983.1,37330,2918,66,45,503635.71,315846.08
+L10339,01/01/2026,Google Ads,G_Brand,Cairo,Headphones,New,874.97,73469,817,49,67,106656.4,73687.95
+L10340,27/02/2026,Facebook Ads,FB_Summer,Cairo,Accessories,Returning,931.44,20187,259,383,24,20646.64,10756.42
+L10341,04/05/2026,Google Ads,G_Search,Alexandria,Accessories,New,904.14,30791,311,345,50,37979.39,26864.05
+L10342,15/06/2026,Google Ads,G_Search,Tanta,Smartphone,New,344.92,75610,1997,137,12,136742.03,74012.4
+L10343,15/01/2026,Facebook Ads,FB_Retargeting,Giza,Smart Watch,New,571.19,44867,422,182,102,401587.61,276451.59
+L10344,11/06/2026,Google Ads,G_Search,Mansoura,Headphones,New,886.61,5893,4652,44,43,60356.54,37214.09
+L10345,12/06/2026,Google Ads,G_Search,Cairo,Smart Watch,New,501.57,24773,2703,268,34,122241.2,79685.55
+L10346,05/03/2026,,IG_Retargeting,Giza,Smart Watch,Returning,504.31,9239,534,385,54,229206.11,142597.51
+L10347,25/01/2026,Instagram Ads,IG_Products,Alexandria,Laptop,Returning,742.24,25863,4464,14,86,2665588.15,1640428.66
+L10348,24/01/2026,Facebook Ads,FB_NewCustomers,Tanta,Smartphone,New,1443.8,56415,4705,227,8,116145.55,79789.66
+L10349,12/01/2026,Google Ads,G_Brand,Giza,Tablet,New,967.15,73968,2356,20,1,9328.06,6260.78
+L10350,18/01/2026,Instagram Ads,IG_Products,Cairo,Accessories,Returning,243.44,65430,675,391,60,56681.84,34954.58
+L10351,15/01/2026,Google Ads,G_Shopping,Cairo,Accessories,Returning,703.25,6515,3954,336,117,94791.84,51408.19
+L10352,27/01/2026,TikTok Ads,TT_Products,Cairo ,Smartphone,New,369.81,19605,4610,126,40,571426.67,310330.73
+L10353,13/03/2026,Instagram Ads,IG_Retargeting,Alexandria,Tablet,Returning,999.45,61240,4577,193,43,363948.4,247596.97
+L10354,01/03/2026,Facebook Ads,FB_Retargeting,Cairo,Accessories,New,1192.14,10586,2749,403,63,52674.25,32967.66
+L10355,23/06/2026,Facebook Ads,FB_NewCustomers,Mansoura,Smartphone,New,1561.12,36186,2215,371,30,328946.93,202735.86
+L10356,25/05/2026,Instagram Ads,IG_Retargeting,Giza,Accessories,Returning,980.35,31928,4044,125,107,101255.59,66435.15
+L10357,03/04/2026,Facebook Ads,FB_NewCustomers,Cairo,Smart Watch,New,834.29,88087,1645,171,46,146367.36,101252.3
+L10358,22/02/2026,Instagram Ads,IG_Retargeting,Cairo,Headphones,New,850.37,25711,388,76,1,1747.65,1128.59
+L10359,08/01/2026,Email Marketing,Email_NewOffers,Cairo,Headphones,Returning,365.28,59962,422,209,95,138042.45,92843.15
+L10360,20/03/2026,instagram ads,IG_Products,Other,Accessories,Returning,627.09,25039,515,40,81,72945.62,49096.35
+L10361,27/01/2026,Google Ads,G_Brand ,Cairo,Laptop,New,712.67,41561,256,84,76,2006516.46,1186357.45
+L10362,23/06/2026,Instagram Ads,IG_Influencers,Mansoura,Tablet,New,452.42,80483,218,,109,699257.14,401944.64
+L10363,19/02/2026,Google Ads,G_Brand,Tanta,Tablet,New,816.93,86395,273,336,68,506907.75,344815.28
+L10364,11/05/2026,Google Ads,G_Brand,Giza,Tablet,Returning,1668.33,6577,3337,75,57,465305.03,277059.25
+L10365,03/04/2026,Email Marketing,Email_Retention,Tanta,Smart Watch,New,222.86,33350,3315,79,105,461732.42,323520.76
+L10366,21/06/2026,Google Ads,G_Search,Alexandria,Tablet,New,881.71,38798,,306,43,387804.54,207063.63
+L10367,30/06/2026,Email Marketing,Email_NewOffers,Other,Headphones,Returning,637.52,86417,4700,456,73,120802.26,64223.74
+L10368,24/01/2026,Email Marketing,Email_Retention,Cairo,Smart Watch,New,827.83,15785,3959,425,55,232142.96,163753.84
+L10369,01/03/2026,Facebook Ads,FB_Summer,Cairo,Smartphone,New,705.65,77227,3193,29,42,524202.29,340569.5
+L10370,02/05/2026,Facebook Ads,FB_Summer,Mansoura,Tablet,New,561.4,66957,3042,450,88,650584.4,387696.17
+L10371,11/05/2026,Facebook Ads,FB_Summer,Other,Tablet,Returning,282.28,70431,4916,235,33,229466.46,153974.77
+L10372,28/05/2026,Facebook Ads,FB_Summer,Tanta,Smartphone,New,911.71,22297,1033,443,100,1372688.67,898377.19
+L10373,15/02/2026,Facebook Ads,FB_NewCustomers,Cairo,Tablet,New,819.41,76894,1382,473,29,212014.02,132771.7
+L10374,15/01/2026,Instagram Ads,IG_Influencers,Cairo,Smartphone,Returning,820.93,68772,3461,418,70,791222.76,427082
+L10375,02/06/2026,Facebook Ads,FB_Retargeting,Other,Smart Watch,New,1142.79,24581,2960,405,69,286830.17,195743.21
+L10376,17/01/2026,Google Ads,G_Shopping,Cairo,Headphones,New,496.9,60192,2267,208,117,210118.49,145655.11
+L10377,06/05/2026,TikTok Ads,TT_Conversions,Tanta,Smartphone,New,636.75,6462,4967,48,54,685905.92,380289.38
+L10378,25/03/2026,Facebook Ads,FB_Summer,Tanta,Laptop,New,407.9,69173,625,154,66,1461260.85,1008419.52
+L10379,09/01/2026,TikTok Ads,TT_Reach,Giza,Smartphone,New,486.43,20511,2007,54,12,156461.53,108829.86
+L10380,15/06/2026,Facebook Ads,FB_NewCustomers,Alexandria,Tablet,New,305.4,81106,4232,404,2,15381.9,9688.84
+L10381,25/06/2026,Facebook Ads,FB_Summer,Alexandria,Smart Watch,New,422.87,53665,84,335,25,103323.66,67288.07
+L10382,04/03/2026,Instagram Ads,IG_Products,Cairo,Accessories,New,782.74,49414,3561,390,56,45773.05,27301.22
+L10383,27/04/2026,Instagram Ads,IG_Products,Other,Smart Watch,Returning,1590.52,86010,3333,416,23,95528.68,55058.75
+L10384,10/05/2026,Email Marketing,Email_Retention,Alexandria,Accessories,Returning,338.27,77573,1442,100,52,52118.04,34627.05
+L10385,29/03/2026,Instagram Ads,IG_Retargeting,Other,Smartphone,Returning,558.07,18386,1900,247,69,833536.67,577119.98
+L10386,13/03/2026,TikTok Ads,TT_Products,Cairo,Headphones,Returning,1450.08,59460,2743,79,42,82602.21,53758.8
+L10387,19/05/2026,Facebook Ads,FB_Summer,Other,Laptop,New,847.4,11221,3018,175,59,1488512.31,926328.19
+L10388,05/03/2026,Facebook Ads,fb_summer,Alexandria,Smart Watch,Returning,756.25,28474,1353,139,57,201943.61,111429.45
+L10389,13/03/2026,TikTok Ads,TT_Products,Cairo,Tablet,New,394.14,26045,3406,223,48,366191.8,194334.96
+L10390,21/01/2026,TikTok Ads,TT_Reach,Cairo,Accessories,Returning,588.17,9922,3739,349,41,30499.37,18578.34
+L10391,18/01/2026,Email Marketing,Email_Promo,Mansoura,Tablet,Returning,465.72,27706,3025,98,75,506173.13,268205.91
+L10392,05/03/2026,Google Ads,G_Shopping,Mansoura,Headphones,Returning,808.99,47771,3098,344,112,180442.47,114376.51
+L10393,23/03/2026,Google Ads,G_Brand,Tanta,Accessories,Returning,818.63,57335,1211,261,99,95635.27,57050.82
+L10394,20/04/2026,TikTok Ads,TT_Products,Cairo,Smart Watch,New,512.29,57949,4843,378,65,290774.83,195237.22
+L10395,05/04/2026,Google Ads,G_Brand,Cairo,Smartphone,New,565.38,75714,2716,358,10,142489.51,82804.89
+L10396,15/06/2026,Email Marketing,Email_NewOffers,Giza,Tablet,New,1144.67,20240,3109,81,102,682178.87,435637.07
+L10397,01/02/2026,TikTok Ads,TT_Conversions,Alexandria,Headphones,New,1210.19,7716,3099,174,97,172017.13,107947.06
+L10398,11/01/2026,Google Ads,G_Shopping,Giza,Smart Watch,New,538.39,21574,4457,58,89,363483.03,189353.75
+L10399,14/02/2026,TikTok Ads,TT_Reach,Other,Smart Watch,Returning,546.68,88255,3239,61,17,73686.04,39383.56
+L10400,02/02/2026,TikTok Ads,TT_Reach,Other,Smart Watch,Returning,326.81,78717,333,298,84,366501.71,211864.98
+L10401,12/04/2026,Facebook Ads,FB_Summer,Other,Smart Watch,New,564.31,49066,408,287,99,438199.59,305182.8
+L10402,18/06/2026,Email Marketing,Email_Promo,Tanta,Accessories,Returning,664.92,66826,2671,123,103,87570.47,48111.48
+L10403,16/05/2026,Google Ads,G_Shopping,Alexandria,Smart Watch,Returning,252.13,25213,2910,248,51,212968.89,141023.5
+L10404,11/01/2026,TikTok Ads,TT_Products,Alexandria,Tablet,Returning,789.51,76916,3124,142,45,322787.02,230687.27
+L10405,28/06/2026,Google Ads,G_Shopping,Giza,Headphones,Returning,575.66,71151,,496,43,85122.02,57722.39
+L10406,29/03/2026,Email Marketing,Email_Promo,Tanta,Accessories,New,1253.99,55906,3481,283,21,16186.77,9203.62
+L10407,10/02/2026,Google Ads,G_Shopping,Cairo,Smart Watch,Returning,1285.47,5463,2972,175,52,164573.15,115476.54
+L10408,25/05/2026,Facebook Ads,FB_NewCustomers,Alexandria,Laptop,Returning,1610.85,36973,734,383,58,1325843.28,714127.61
+L10409,17/03/2026,Email Marketing,Email_NewOffers,Cairo,Laptop,New,788.5,79694,839,382,93,2707632.33,1661480.06
+L10410,01/05/2026,Facebook Ads,FB_Retargeting,Giza,Headphones,New,562.34,25651,1878,302,113,184356.53,128590.22
+L10411,15/02/2026,Google Ads,G_Shopping,Other,Smartphone,Returning,759.03,73694,3051,487,106,1393482.76,903329.58
+L10412,09/06/2026,Email Marketing,Email_Retention,Tanta,Smartphone,New,583.18,25008,4591,252,29,455930.5,274802.49
+L10413,21/03/2026,Email Marketing,Email_Promo,Cairo,Accessories,Returning,1148.29,75474,3506,488,7,7127.95,4123.97
+L10414,23/02/2026,Instagram Ads,IG_Retargeting,Other,Accessories,Returning,912.34,43185,334,329,97,79149.31,47095.41
+L10415,27/03/2026,Instagram Ads,IG_Retargeting,Mansoura,Accessories,New,509.95,79417,3903,147,56,43792.66,27229.77
+L10416,02/04/2026,Google Ads,G_Shopping,Cairo,Smartphone,New,920.18,76139,1956,88,110,1669915.19,974911.16
+L10417,28/05/2026,Facebook Ads,FB_NewCustomers,Cairo,Laptop,Returning,219.49,39980,2837,179,72,2189702.9,1562995.86
+L10418,10/06/2026,Google Ads,G_Brand,Cairo,Smartphone,New,1327.95,27504,2704,132,114,1553090.9,1097438.15
+L10419,17/06/2026,Instagram Ads,IG_Products,Cairo,Tablet,New,449.02,59970,4201,185,19,156703.18,108773.05
+L10420,09/06/2026,TikTok Ads,TT_Reach,Other,Smart Watch,New,1241.48,21766,3084,309,103,363349.39,219596.01
+L10421,07/04/2026,TikTok Ads,TT_Products,Giza,Accessories,New,509.63,16695,4596,91,24,23490.41,15462.81
+L10422,02/01/2026,TikTok Ads,TT_Products,Other,Laptop,Returning,685.64,22796,3814,96,18,498247.58,349055.25
+L10423,02/02/2026,Facebook Ads,FB_NewCustomers,Alexandria,Headphones,New,550.72,47543,1324,234,4,6668.85,4602.08
+L10424,07/06/2026,Google Ads,G_Shopping,Cairo,Headphones,Returning,824.97,19559,1088,25,74,102702.26,61915.64
+L10425,10/06/2026,Facebook Ads,FB_Retargeting,Giza,Smart Watch,New,337.27,38139,4394,319,78,350721.1,190258.2
+L10426,18/03/2026,Google Ads,G_Brand,Cairo,Laptop,New,148.81,13802,1590,367,71,1953503.08,1045370.43
+L10427,26/04/2026,Google Ads,G_Shopping,Giza,Smartphone,Returning,1197.18,78843,2039,172,82,971938.4,617582.11
+L10428,03/06/2026,Email Marketing,Email_Retention,Other,Smartphone,Returning,1321.63,45205,2588,107,86,1199907.22,778170.53
+L10429,30/05/2026,Google Ads,G_Search,Giza,Tablet,New,509.16,39159,4838,165,26,218151.79,150517.87
+L10430,13/04/2026,Facebook Ads,FB_NewCustomers,Giza,Tablet,New,410.63,16516,2762,11,39,309627.5,179120.44
+L10431,15/06/2026,Facebook Ads,FB_NewCustomers,Cairo,Smartphone,New,585.53,55492,1069,359,95,1379339.8,763456.44
+L10432,13/04/2026,TikTok Ads,TT_Conversions,Cairo,Headphones,New,341.52,34086,4364,406,25,42907.9,25564.58
+L10433,31/03/2026,Instagram Ads,IG_Influencers,Cairo,Accessories,Returning,785.95,35480,334,178,26,26718.47,15783
+L10434,23/06/2026,Facebook Ads,FB_Summer,Giza,Headphones,New,539.4,57091,4243,473,61,84413.58,46131.5
+L10435,02/05/2026,Facebook Ads,FB_Summer,Cairo,Tablet,New,500.14,52766,4791,324,82,548668.64,359079.77
+L10436,23/05/2026,Instagram Ads,IG_Products,Alexandria,Smart Watch,New,475.73,43737,4532,334,49,166859.57,103743
+L10437,16/04/2026,Facebook Ads,FB_NewCustomers,Giza,Smartphone,Returning,624.06,14265,335,384,41,589482.35,391548.65
+L10438,29/04/2026,TikTok Ads,TT_Products,Alexandria,Tablet,Returning,543.9,75990,1087,101,28,232278.14,137169.12
+L10439,21/06/2026,Instagram Ads,IG_Influencers,Cairo,Tablet,New,632.3,20386,1835,190,38,343097.25,200760.08
+L10440,18/02/2026,Facebook Ads,FB_NewCustomers,Cairo,Accessories,Returning,453.16,42425,2651,240,59,56414.72,34667.7
+L10441,14/04/2026,Facebook Ads,FB_NewCustomers,Other,Smartphone,New,1070.34,48254,3988,310,40,538196.16,374305.46
+L10442,02/03/2026,Email Marketing,Email_Promo,Mansoura,Accessories,New,785.96,58634,3077,157,32,33353.09,17612.31
+L10443,03/05/2026,Google Ads,G_Shopping,Giza,Smartphone,Returning,634.7,52662,2883,289,82,1002490.83,682662.74
+L10444,14/05/2026,Google Ads,G_Search,Cairo,Accessories,Returning,367.28,80452,3845,198,100,98953.62,58758.41
+L10445,09/01/2026,TikTok Ads,TT_Products,Other,Headphones,Returning,1037.3,15143,4459,356,82,132747.99,91718.75
+L10446,06/01/2026,Email Marketing,Email_Promo,Mansoura ,Smart Watch,New,465.74,20581,3463,359,96,393949.5,268059.23
+L10447,14/03/2026,Email Marketing,Email_NewOffers,Alexandria,Smart Watch,New,684.4,72443,178,323,110,464099.31,273703.61
+L10448,13/04/2026,TikTok Ads,TT_Products,Other,Smartphone,Returning,476.59,34424,276,420,15,211369.53,139245.03
+L10449,09/06/2026,Google Ads,G_Search,Cairo,Laptop,New,912.5,46984,2609,419,22,501084.33,276561.75
+L10450,10/02/2026,Facebook Ads,FB_NewCustomers,Giza,Tablet,New,184.94,46505,957,137,6,46156.68,32275.35
+L10451,24/04/2026,TikTok Ads,TT_Conversions,Giza,Tablet,New,471.28,67699,1948,16,25,201131.98,120859.85
+L10452,08/01/2026,Instagram Ads,IG_Influencers,Cairo,Smartphone,Returning,922.08,31957,2745,435,95,1442470.22,881529.79
+L10453,13/03/2026,Google Ads,G_Shopping,Other,Accessories,New,427.29,30464,1468,56,11,9460.13,6254.58
+L10454,27/06/2026,Email Marketing,Email_Retention,Mansoura,Laptop,New,192.92,28649,2495,62,71,2168304.81,1483484.87
+L10455,02/04/2026,Facebook Ads,FB_NewCustomers,Giza,Headphones,Returning,453.48,47065,649,196,4,6509.74,3692.77
+L10456,03/03/2026,Google Ads,G_Search,Cairo,Accessories,New,750.79,39758,2717,47,105,93971.78,61294.98
+L10457,25/03/2026,Facebook Ads,FB_Retargeting,Cairo,Accessories,New,329.79,10596,1145,462,91,88931.11,53216.34
+L10458,03/03/2026,Google Ads,G_Search,Alexandria,Smartphone,New,602.49,21374,501,480,116,1604751.95,952806.36
+L10459,21/04/2026,Facebook Ads,FB_Retargeting,Mansoura,Smartphone,New,603.23,8775,2963,485,68,1070871.26,704638.82
+L10460,07/05/2026,Facebook Ads,FB_NewCustomers,Cairo,Tablet,New,1435.35,32388,1284,235,48,400295.96,239151.48
+L10461,07/01/2026,Facebook Ads,FB_NewCustomers,Giza,Smartphone,New,404.48,26029,624,62,25,338193.76,199271.1
+L10462,25/03/2026,Instagram Ads,IG_Retargeting,Mansoura,Smartphone,Returning,1361.27,88981,4246,408,4,43978.92,30221.33
+L10463,12/05/2026,Instagram Ads,IG_Influencers,Cairo,Smartphone,New,405.87,58639,3719,233,21,272468.58,147202.57
+L10464,14/05/2026,Instagram Ads,IG_Retargeting,Mansoura,Tablet,Returning,857.34,19645,1303,163,78,566690.6,371283.51
+L10465,27/02/2026,Email Marketing,Email_NewOffers,Cairo,Headphones,New,554.02,36105,3252,57,12,21855.68,12452.17
+L10466,22/01/2026,Google Ads,G_Search,,Headphones,New,511.15,18668,847,360,27,39992.8,20920.22
+L10467,03/06/2026,Facebook Ads,FB_NewCustomers,Giza,Smartphone,New,279.99,20960,3737,156,32,381327.74,211008.79
+L10468,07/05/2026,TikTok Ads,,Cairo,Tablet,New,854.52,16357,734,402,106,735514.83,471709.42
+L10469,03/01/2026,Facebook Ads,FB_NewCustomers,Alexandria,Headphones,Returning,1055.38,69604,2526,73,22,31441.03,20808.47
+L10470,07/05/2026,Email Marketing,Email_Promo,Alexandria,Accessories,New,840.37,56796,300,358,96,78327.34,41060.1
+L10471,10/02/2026,Facebook Ads,FB_NewCustomers,Mansoura,Headphones,New,448.04,20804,3746,191,106,202261.88,106649.67
+L10472,16/04/2026,Email Marketing,Email_Promo,Mansoura,Headphones,Returning,538.49,19626,4357,134,17,31249.48,21890.52
+L10473,14/01/2026,Facebook Ads,FB_Retargeting,Giza,Tablet,Returning,591.41,33132,4482,188,113,967548.08,517310.38
+L10474,12/01/2026,Email Marketing,Email_Retention,Cairo,Accessories,Returning,891.35,12951,2649,48,116,113403.28,79250.34
+L10475,28/03/2026,Google Ads,G_Search,Cairo,Tablet,New,1123.94,11449,1093,269,29,208119.03,117719.03
+L10476,12/01/2026,Email Marketing,Email_NewOffers,Cairo,Smartphone,Returning,568.03,24065,2131,391,25,384469.16,256826.77
+L10477,21/05/2026,Facebook Ads,FB_Summer,Giza,Smart Watch,New,209.49,14130,4065,12,15,50277.54,29258.85
+L10478,25/01/2026,Instagram Ads,IG_Influencers,Other,Headphones,New,207.87,67287,4979,73,76,118704.23,82113.7
+L10479,14/02/2026,Email Marketing,Email_Retention,Alexandria,Smart Watch,New,424.85,56702,4390,38,38,152475.75,100647.87
+L10480,02/05/2026,Google Ads,G_Brand,Cairo,Tablet,New,1034.33,41993,3099,381,32,213796.56,128355.48
+L10481,27/05/2026,Instagram Ads,IG_Retargeting,Giza,Tablet,New,865.34,36875,3761,20,25,213678.43,114373.62
+L10482,24/02/2026,Instagram Ads,IG_Influencers,Tanta,Tablet,New,916.1,11054,1523,106,47,353771.68,235802.99
+L10483,10/04/2026,Google Ads,G_Brand,Mansoura,Smart Watch,Returning,440.52,53517,4276,367,64,275396.89,177184.01
+L10484,22/06/2026,,IG_Influencers,Other,Tablet,New,515.82,81368,3090,451,112,878233.04,457192.61
+L10485,16/05/2026,Instagram Ads,IG_Products,Cairo,Smartphone,New,1018.91,34670,652,212,37,436338.71,227718.18
+L10486,29/04/2026,Email Marketing,Email_Promo,Cairo,Tablet,New,1392.49,54112,1412,420,1,8560.92,5836.48
+L10487,22/02/2026,Facebook Ads,FB_Retargeting,Other,Laptop,Returning,1029.35,33307,4833,490,112,2675695.23,1530176.45
+L10488,01/02/2026,Facebook Ads,FB_Retargeting,Mansoura,Smart Watch,New,1029.65,72087,4082,30,5,19357.46,12528.67
+L10489,20/02/2026,Email Marketing,Email_Promo,Alexandria,Laptop,New,429.66,52922,3214,48,45,995780,608265.13
+L10490,13/02/2026,Email Marketing,Email_Retention,Mansoura,Tablet,Returning,897.01,68080,4166,232,49,402444.51,278767.68
+L10491,23/03/2026,Google Ads,G_Search,Tanta,Smartphone,Returning,302.33,84335,305,111,37,527406.44,370973.59
+L10492,26/05/2026,Instagram Ads,IG_Influencers,Giza,Headphones,New,1103.16,31312,4280,55,105,166799.3,119989
+L10493,30/05/2026,Facebook Ads,FB_Retargeting,Mansoura,Accessories,Returning,778.64,71985,2077,75,87,89596.56,49344.13
+L10494,06/02/2026,Facebook Ads,FB_Retargeting,Alexandria,Accessories,Returning,566.2,62608,851,100,17,17053.74,11811.3
+L10495,06/04/2026,Google Ads,G_Search,Giza,Tablet,Returning,166.49,45277,4604,173,26,220509.23,126396.83
+L10496,25/02/2026,Google Ads,G_Shopping,Giza,Smartphone,New,556.73,36551,513,468,40,579871.37,370052.55
+L10497,15/04/2026,Instagram Ads,IG_Retargeting,Tanta,Smart Watch,Returning,652.25,61597,3179,120,71,249993.17,155284.4
+L10498,28/02/2026,Facebook Ads,FB_NewCustomers,Tanta,Laptop,New,686.5,50212,2809,347,91,2541332.61,1330635.72
+L10499,11/05/2026,Email Marketing,Email_Retention,Tanta,Laptop,New,570.4,14637,3487,132,73,1704703.85,1204465.76
+L10500,05/06/2026,Email Marketing,Email_NewOffers,Cairo,Laptop,New,489.17,48258,3220,202,16,364982.91,195508.72
+L10501,04/02/2026,Instagram Ads,IG_Products,Mansoura,Smart Watch,New,403.19,40693,945,456,118,545067.7,358460.38
+L10502,03/04/2026,Google Ads,G_Shopping,Mansoura,Accessories,New,1391.88,14824,2873,108,61,56085.84,37970.19
+L10503,07/04/2026,Google Ads,G_Brand,Mansoura,Smartphone,Returning,1586.79,31950,2991,300,28,365743.38,248360.81
+L10504,15/05/2026,TikTok Ads,TT_Reach,Mansoura,Smart Watch,New,730,28488,2495,168,57,203695.31,111441.48
+L10505,17/03/2026,Instagram Ads,IG_Retargeting,Tanta,Laptop,New,,5215,330,421,69,1890538.34,1152309.57
+L10506,18/02/2026,Facebook Ads,FB_Summer,Giza,Tablet,New,356.17,16523,3837,112,77,502235.63,344476.27
+L10507,04/04/2026,Email Marketing,Email_Retention,Giza,Headphones,New,568.25,80900,4736,394,21,29602.63,17185.39
+L10508,08/06/2026,TikTok Ads,TT_Reach,Cairo,Smart Watch,Returning,1556.31,73689,998,290,117,374201.02,229590.94
+L10509,24/01/2026,Email Marketing,Email_Promo,Alexandria,Smart Watch,New,748.03,28834,1253,52,5,19418.9,11157.3
+L10510,28/05/2026,Instagram Ads,IG_Influencers ,Mansoura,Smartphone,New,1157.1,39474,3283,495,25,348076.97,213270.34
+L10511,06/02/2026,Instagram Ads,IG_Products,Tanta,Smartphone,New,1146.34,48066,512,93,38,425299.22,296674.95
+L10512,04/01/2026,Google Ads,G_Shopping,Cairo,Smart Watch,New,911.47,15400,915,460,11,46312.2,28297.9
+L10513,18/04/2026,Email Marketing,Email_Retention,Cairo,Laptop,New,340.4,15345,2326,200,98,2319972.7,1464325.94
+L10514,06/05/2026,TikTok Ads,TT_Products,Mansoura,Headphones,Returning,1148.5,38896,2342,60,13,23161.8,13915.5
+L10515,20/01/2026,Facebook Ads,FB_Retargeting,Cairo,Smartphone,Returning,317.04,33899,977,395,21,333020.69,203816.47
+L10516,01/06/2026,Facebook Ads,FB_Retargeting,Cairo,Laptop,New,431.13,33229,3712,219,50,1413439.05,739277.87
+L10517,19/02/2026,Google Ads,G_Shopping,Cairo,Tablet,Returning,764,10583,4647,135,22,198054.99,114228.04
+L10518,26/06/2026,TikTok Ads,TT_Reach,Cairo,Smartphone,Returning,538.23,9897,3895,457,47,737294.05,447770.73
+L10519,28/06/2026,Email Marketing,Email_Promo,Cairo,Laptop,Returning,760.05,76537,326,467,70,1836123.92,1187530.4
+L10520,06/04/2026,Facebook Ads,FB_Retargeting,Alexandria,Laptop,New,306.19,9567,2509,78,103,2923211.24,1783189.22
+L10521,15/04/2026,Instagram Ads,IG_Influencers,Alexandria,Headphones,New,431.73,79807,1070,274,49,92450.29,54320.41
+L10522,13/06/2026,Google Ads,G_Search,Other,Headphones,New,892.7,82239,3390,267,88,138570.4,82812.41
+L10523,27/04/2026,Email Marketing,Email_NewOffers,Giza,Tablet,Returning,2146.07,18329,1006,427,12,85831.88,48791.88
+L10524,08/04/2026,TikTok Ads,TT_Conversions,Mansoura,Laptop,Returning,1279.45,76792,3518,197,84,2588654.94,1824739.91
+L10525,07/03/2026,TikTok Ads,TT_Conversions,Cairo,Accessories,New,249.87,5228,2687,239,104,99215.58,61945.11
+L10526,20/03/2026,Google Ads,G_Search,Cairo,Laptop,New,567.22,87214,1154,198,9,212096.96,110859.24
+L10527,11/06/2026,Google Ads,G_Shopping,Mansoura,Headphones,Returning,468.79,42052,4102,424,116,189419.01,99234.58
+L10528,13/06/2026,,FB_Summer,Cairo,Accessories,Returning,649.2,62769,3879,19,54,52775.29,37712.82
+L10529,06/01/2026,Facebook Ads,FB_Retargeting,Giza,Smartphone,Returning,759.3,51032,4864,123,8,109210.76,61626.56
+L10530,08/02/2026,TikTok Ads,TT_Conversions,Giza,Smartphone,Returning,484.64,38686,3231,85,78,1105533.54,753002.84
+L10531,19/06/2026,TikTok Ads,TT_Reach,Giza,Smart Watch,New,1075.13,81981,3518,173,51,217160,115454.21
+L10532,25/04/2026,Email Marketing,Email_Promo,Cairo,Headphones,New,1169.03,68261,4653,94,1,1741.87,1226.68
+L10533,05/05/2026,Email Marketing,Email_Promo,Alexandria,Smart Watch,Returning,1136.98,7809,3571,58,24,94654,65773.49
+L10534,12/01/2026,Instagram Ads,IG_Retargeting,Giza,Accessories,New,391.72,46785,786,335,12,11540.96,7319.49
+L10535,11/05/2026,TikTok Ads,TT_Conversions,Cairo,Headphones,New,779.1,41547,3144,186,97,175411.38,91529.61
+L10536,18/01/2026,Email Marketing,Email_NewOffers,Mansoura,Tablet,Returning,1085.22,47818,833,396,50,412443.52,235737.12
+L10537,09/02/2026,TikTok Ads ,TT_Reach,Mansoura,Laptop,New,984.77,76927,667,467,57,1422942.27,855707.01
+L10538,21/01/2026,Facebook Ads,FB_Retargeting,Other,Tablet,Returning,951.54,70681,1414,398,33,250215.6,153135.16
+L10539,23/05/2026,Google Ads,G_Shopping,Cairo,Accessories,New,1290.84,84465,1927,227,34,35195.81,20397.23
+L10540,09/04/2026,Facebook Ads,FB_Summer,Tanta,Headphones,Returning,513.94,42333,4014,198,101,143501.12,75566.19
+L10541,26/01/2026,Email Marketing,Email_NewOffers,Giza,Accessories,New,223.9,21576,4006,478,2,1603.56,1023.11
+L10542,08/01/2026,Instagram Ads,IG_Products,Alexandria,Laptop,New,563.13,44405,3397,355,105,2760104.29,1724598.54
+L10543,10/04/2026,Facebook Ads,FB_NewCustomers,Cairo,Smartphone,New,580.64,78779,4100,239,119,1799446.98,1037561.36
+L10544,28/03/2026,Instagram Ads,IG_Retargeting,Mansoura,Smartphone,New,1990.17,36601,3235,264,58,678927.93,358199.11
+L10545,11/02/2026,Instagram Ads,IG_Influencers,Cairo,Accessories,Returning,462.48,72946,4382,245,69,55516.53,39911.88
+L10546,21/06/2026,Google Ads,G_Shopping,Alexandria,Smart Watch,Returning,1156.23,72356,2278,35,118,383113.36,236150.02
+L10547,14/01/2026,Facebook Ads,FB_Summer,Cairo,Headphones,New,1797.95,57116,244,81,47,84354.22,56618.62
+L10548,19/03/2026,Instagram Ads,IG_Products,Tanta,Headphones,New,1599.02,67894,2078,270,63,94504.53,57691.5
+L10549,02/01/2026,Google Ads,G_Search,Tanta,Smartphone,New,,39635,3137,263,112,1438922.73,760663.56
+L10550,29/04/2026,TikTok Ads,TT_Products,Mansoura,Tablet,New,992.26,12465,2164,280,18,138510.21,80601.88
+L10551,06/02/2026,Google Ads,G_Shopping,Alexandria,Laptop,Returning,745.79,61754,4508,132,66,1997546.53,1166611.18
+L10552,10/03/2026,TikTok Ads,TT_Reach,Cairo,Tablet,Returning,420.33,43871,482,153,81,615495.32,423258.02
+L10553,15/06/2026,Instagram Ads,IG_Products,Giza,Tablet,Returning,1251.74,67874,493,266,102,694318.53,451894.43
+L10554,10/02/2026,Instagram Ads,IG_Retargeting,Giza,Accessories,Returning,888.63,82733,124,153,72,63852.1,36720.45
+L10555,03/03/2026,Email Marketing,Email_Promo,Cairo,Smartphone,New,390.92,34511,4237,430,115,1812631.36,1293399.47
+L10556,01/03/2026,Google Ads,G_Shopping,Mansoura,Smartphone,Returning,539.25,85960,2547,268,75,1046925.35,611727.24
+L10557,05/05/2026,Facebook Ads,FB_Retargeting,Other,Smartphone,Returning,607.82,53821,947,445,4,63462.76,45670.77
+L10558,21/04/2026,Facebook Ads,FB_Retargeting,Mansoura,Accessories,Returning,1178.01,70776,98,56,66,65483.1,47097.59
+L10559,14/01/2026,TikTok Ads,TT_Conversions,Mansoura,Smart Watch,Returning,332.23,75167,444,360,10,32028.7,17879.77
+L10560,25/03/2026,Instagram Ads,IG_Retargeting,Other,Tablet,New,331.45,80135,3912,22,93,775037.71,451496.84
+L10561,10/05/2026,Instagram Ads,IG_Influencers,Cairo,Accessories,Returning,738.04,49462,659,385,67,54125.95,33407.01
+L10562,11/03/2026,Facebook Ads,FB_Summer,Giza,Headphones,New,376.85,66382,625,217,68,115773.99,75579.59
+L10563,25/05/2026,Facebook Ads,FB_NewCustomers ,Other,Laptop,New,599.43,37574,4230,320,0,0,0
+L10564,03/05/2026,Facebook Ads,FB_Summer,Cairo,Smart Watch,New,503.85,46910,4953,244,90,329655.56,235337.25
+L10565,30/03/2026,Google Ads,G_Brand,Mansoura,Headphones,Returning,173.45,78531,3119,158,91,175775.26,116855.01
+L10566,28/01/2026,Instagram Ads,IG_Retargeting,Giza,Tablet,Returning,450.67,30186,4217,331,62,433365.34,243728.55
+L10567,07/03/2026,Google Ads,G_Search,Giza,Smartphone,Returning,589.17,27813,4124,447,28,428710.91,231940.97
+L10568,12/06/2026,Google Ads,G_Search,Mansoura,Tablet,Returning,1049.24,83812,4406,164,81,523714.57,344436.73
+L10569,05/01/2026,Email Marketing,Email_NewOffers,Other,Accessories,New,1612.71,83282,532,175,11,8169.88,4507.25
+L10570,17/06/2026,Google Ads,G_Brand,Tanta,Laptop,Returning,426.19,23557,4041,99,76,2272429.15,1539651.12
+L10571,13/06/2026,Google Ads,G_Search,Cairo,Accessories,New,721.27,33060,1461,195,40,36886.4,21475.53
+L10572,14/02/2026,TikTok Ads,TT_Products,Tanta,Smart Watch,New,852.2,63866,1547,327,1,4248.44,2486.95
+L10573,31/05/2026,Google Ads,G_Brand,Cairo,Smart Watch,New,1912,77104,2818,367,36,124482.38,64999.68
+L10574,16/02/2026,Instagram Ads,IG_Influencers,Alexandria,Laptop,Returning,490.18,89577,1296,183,44,1176225.93,776547.01
+L10575,31/01/2026,TikTok Ads,TT_Conversions,Giza,Headphones,Returning,412.41,11080,960,226,79,143341.4,77784.78
+L10576,19/05/2026,Email Marketing,Email_Retention,Giza,Headphones,New,543.05,18854,3894,404,47,82024.77,55331.95
+L10577,10/01/2026,Facebook Ads,FB_NewCustomers,Alexandria,Smart Watch,New,410.65,72695,3229,465,23,88398.14,54663.07
+L10578,28/04/2026,Email Marketing,Email_NewOffers,Other,Smart Watch,Returning,921.68,32025,164,273,98,446966.45,302531.91
+L10579,14/01/2026,Google Ads,G_Shopping,Mansoura,Smartphone,New,1066.2,57982,4224,106,21,300436.47,191313.53
+L10580,21/03/2026,facebook ads,FB_Retargeting,Giza,Headphones,Returning,751.85,46081,1248,126,99,190266.42,102075.4
+L10581,03/04/2026,Google Ads,G_Search,Cairo,Laptop,Returning,725.79,9368,4244,208,10,286544.61,192881.91
+L10582,10/01/2026,Email Marketing,Email_Promo,Other,Headphones,New,1264.76,32094,3209,329,118,213974.36,114253.73
+L10583,17/03/2026,Google Ads,G_Shopping,Other,Smartphone,New,592.06,51040,3725,495,57,643022.28,395934.76
+L10584,04/04/2026,Google Ads,G_Brand,Tanta,Accessories,Returning,977.68,71766,2606,30,45,37440.99,20759.9
+L10585,15/04/2026,Instagram Ads,IG_Influencers,Cairo,Smart Watch,Returning,586.5,88053,2947,209,28,123530.48,82823.11
+L10586,01/01/2026,Facebook Ads,FB_NewCustomers,Cairo,Smart Watch,New,337.82,28991,3596,380,34,118725.54,83383.11
+L10587,13/05/2026,Facebook Ads,FB_NewCustomers,Cairo,Smartphone,Returning,1167.27,6301,3447,456,111,1272192.34,802531.03
+L10588,20/01/2026,Facebook Ads,FB_Summer,Cairo,Laptop,New,775.46,33610,2274,350,117,2881465.23,1802153.24
+L10589,08/01/2026,Facebook Ads,FB_Retargeting,Alexandria,Smart Watch,New,1114.01,86463,3635,457,14,48636.61,32722.35
+L10590,20/06/2026,Facebook Ads,FB_NewCustomers,other,Tablet,Returning,820.98,39678,525,257,59,538536.21,280585.85
+L10591,01/01/2026,Facebook Ads,FB_Summer,Giza,Smart Watch,Returning,872.27,29466,3706,285,94,416035.63,292702.59
+L10592,26/02/2026,Instagram Ads,IG_Influencers,Cairo,Tablet,New,417.43,85440,4096,273,41,322323.86,180336.9
+L10593,05/03/2026,Facebook Ads,FB_Retargeting,Alexandria,Smartphone,Returning,860.77,45875,3955,67,104,1163377.3,833936.51
+L10594,28/04/2026,Google Ads,G_Search,Cairo,Smartphone,New,1258.62,31081,3417,311,42,609058.96,406395.07
+L10595,28/01/2026,Email Marketing,Email_Retention,Cairo,Smart Watch,New,631.68,29354,341,40,79,321246.8,216793.48
+L10596,01/05/2026,Google Ads,G_Shopping,Cairo,Headphones,New,476.84,23300,1928,258,73,143185.81,93248.41
+L10597,17/04/2026,Instagram Ads,IG_Products,Cairo,Tablet,Returning,995.87,69384,4105,102,48,385818.52,237020.91
+L10598,14/06/2026,Facebook Ads,FB_Summer,Tanta,Laptop,New,313.02,65892,2346,274,63,1558023.23,988293.92
+L10599,24/06/2026,Facebook Ads,FB_Summer,other,Smart Watch,New,1339.89,40525,171,280,31,121301.82,64202.7
+L10600,14/06/2026,Facebook Ads,FB_Summer,Alexandria,Laptop,New,582.48,31532,4302,103,63,1962018.53,1265093.66
