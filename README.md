@@ -23,7 +23,7 @@ A Digital Marketing Performance Analysis project built using Python, Excel, and 
 ## Dashboard
 
 ### Digital Marketing Performance Dashboard
-![Digital Marketing Performance Dashboard](Dashboard/Digital_Marketing_Dashboard.png)
+![Digital Marketing Performance Dashboard](./Dashboard/Digital_Marketing_Dashboard.png)
 ## Power BI Dashboard
 
 View the interactive dashboard:
